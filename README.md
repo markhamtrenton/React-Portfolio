@@ -1,4 +1,6 @@
-
+In this weeks homework we had to create a Portfolio using what we learned from React.
+Github link: https://github.com/markhamtrenton/React-Portfolio
+Deploy Link: https://markhamtrenton.github.io/React-Portfolio/
 
 
 # 20 React: React Portfolio
